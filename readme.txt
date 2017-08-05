@@ -6,3 +6,5 @@ python
 python
 python
 windows
+windows
+windows
